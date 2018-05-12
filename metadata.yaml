@@ -1,0 +1,41 @@
+_repo: A-Song-of-the-English_37091
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Robinson, W. Heath (William Heath)
+    alias: Robinson, William Heath
+    birthdate: 1872
+    deathdate: 1944
+    gutenberg_agent_id: '34723'
+    url: http://www.gutenberg.org/2009/agents/34723
+covers:
+- cover_type: archival
+  image_path: 37091-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Kipling, Rudyard
+    aliases:
+    - Kipling, Joseph Rudyard
+    - Kipling, R. (Rudyard)
+    birthdate: 1865
+    deathdate: 1936
+    gutenberg_agent_id: '132'
+    url: http://www.gutenberg.org/2009/agents/132
+    wikipedia: http://en.wikipedia.org/wiki/Rudyard_Kipling
+description: ''
+gutenberg_issued: '2011-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37091'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Poetry'
+tableOfContents: A song of the English -- The coastwise lights -- The song of the
+  dead -- The deep-sea cables -- The song of the sons -- The song of the cities --
+  England's answer.
+title: A Song of the English
+url: http://www.gutenberg.org/ebooks/37091
