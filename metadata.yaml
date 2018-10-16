@@ -36,6 +36,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'PR'
 - !lcsh 'Poetry'
+- GITenberg
 tableOfContents: A song of the English -- The coastwise lights -- The song of the
   dead -- The deep-sea cables -- The song of the sons -- The song of the cities --
   England's answer.
